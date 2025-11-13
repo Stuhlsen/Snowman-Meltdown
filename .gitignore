@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Logs & Temp
+*.log
+*.tmp
+*.sqlite3
